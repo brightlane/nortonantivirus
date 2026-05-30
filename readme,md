@@ -1,0 +1,53 @@
+Here's a README for the **BestAntivirusGuide** site:
+
+---
+
+# BestAntivirusGuide
+
+> Independent antivirus rankings, Norton 360 deals, and family online safety guides for 2026.
+
+## Overview
+
+BestAntivirusGuide is a static affiliate review site hosted on GitHub Pages. It provides expert antivirus software comparisons, curated Norton 360 discount deals, and comprehensive family online safety guides — covering 13 countries.
+
+## Site Structure
+
+### Pages & Sections
+
+| Section | Description |
+|---|---|
+| **Best Antivirus** | Ranked reviews of top antivirus products for 2026 |
+| **Deals** | Norton promo codes, free trial guides, renewal deals, Black Friday offers |
+| **Family Safety** | Guides on parental controls, kids' online safety, screen time, cyberbullying |
+| **Identity & Network** | Dark web monitoring, identity theft protection, home network security |
+
+### Antivirus Rankings (2026)
+
+1. **Norton 360** — 9.7/10 (Best Overall)
+2. **Bitdefender** — 9.2/10
+3. **McAfee** — 8.8/10
+4. **Kaspersky** — 8.5/10
+5. **Avast Free** — 7.5/10
+
+### Category Reviews
+
+- Best Antivirus for Windows / Mac / iPhone / Android
+- Best for Families / Seniors / Students / Gaming
+
+## Monetization
+
+This site uses **affiliate links** (via `track.dkhry.com`). Commissions may be earned at no extra cost to visitors. Norton® is a trademark of Gen Digital Inc. — this site is not affiliated with Norton.
+
+## Tech Stack
+
+- **Hosting:** GitHub Pages
+- **Frontend:** Static HTML/CSS
+- **Affiliate network:** Impact / affiliate redirect links
+
+## Disclaimer
+
+Content reflects independent editorial opinions. Rankings and deals may change; always verify pricing directly with the vendor.
+
+---
+
+> **Note:** This is a third-party affiliate review site, not an official Norton or Gen Digital property.
